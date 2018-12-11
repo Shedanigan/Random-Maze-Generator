@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\documents\programming\github\randommazegenerator\randommazegenerator\main.cpp(57): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  randomMazeGenerator.vcxproj -> E:\Documents\Programming\GitHub\randomMazeGenerator\Debug\randomMazeGenerator.exe
+  randomMazeGenerator.vcxproj -> E:\Documents\Programming\GitHub\randomMazeGenerator\Debug\randomMazeGenerator.pdb (Partial PDB)
